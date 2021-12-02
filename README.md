@@ -4,4 +4,12 @@
 
 ## requirements
 
-`burger.mp4`, `pptr.mp4`, `touch.mp4` files
+* `ffmpeg`
+* `shell2http`
+* `burger.mp4`, `pptr.mp4`, `touch.mp4` files
+
+## run
+
+```
+$ ./run.sh
+```
